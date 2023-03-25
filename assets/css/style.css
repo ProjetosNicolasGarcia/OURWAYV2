@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/Red\ gif\ 2.gif") top right no-repeat;
+  background: #040404 url("../img/red\ gif\ 3.gif") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -932,6 +932,14 @@ section .container {
   right: 15px;
 }
 
+.viyimg{
+  width: 70%;
+}
+
+
+
+
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -1008,8 +1016,12 @@ section .container {
   width: 75%;
 }
 
+.pedrinimg{
+  width: 108%;
+}
+
 .pedroimg{
-  width: 75%;
+  width: 75%
 }
 
 .luyimg{
